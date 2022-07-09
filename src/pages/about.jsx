@@ -16,7 +16,7 @@ export default function about() {
         </p>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, voluptate quidem illo autem voluptas similique. Architecto iure repellat aperiam
-          eaque, atque ipsum quod blanditiis illo, iusto ut eius sint nulla?
+          eaque, atque ipsum quod blanditiis illo, iusto ut eius sint nulla??
         </p>
       </div>
     </Layout>
