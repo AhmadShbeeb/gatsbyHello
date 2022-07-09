@@ -26,9 +26,9 @@ module.exports = {
     `gatsby-plugin-sharp`,
   ],
   siteMetadata: {
-    title: 'Web Warrior',
+    title: 'Ahmad Shbeeb',
     description: 'web dev portfolio',
     copyright: 'This website is copyright 2022',
-    contact: 'me@hotmail.com',
+    contact: 'ahmadshbeeb96@gmail.com',
   },
 }
