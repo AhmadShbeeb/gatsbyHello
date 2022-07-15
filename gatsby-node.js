@@ -1,6 +1,7 @@
 /* eslint-disable prefer-template */
 const path = require('path')
 
+// create page foreach slug in projects using a template
 exports.createPages = async ({ graphql, actions }) => {
   const { data } = await graphql(`
     query Projects {
